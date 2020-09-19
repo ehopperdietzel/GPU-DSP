@@ -1,2 +1,2 @@
-# GPU-DSP
-Audio processing using GPUs.
+# GPUnits
+Sequential Audio Units running on GPUs.
