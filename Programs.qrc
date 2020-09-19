@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/program.cl</file>
+    </qresource>
+</RCC>
